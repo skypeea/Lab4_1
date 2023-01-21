@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"D:\source\RevitApps\Lab4_1.dll"</Assembly>
+		<AddInId>FDC24B0B-FD42-4236-BEBB-196F4FD72A40</AddInId>
+		<FullClassName>Lab4_1.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Вывод значений в текстовый файл</Text>
+	</AddIn>
+</RevitAddIns>
